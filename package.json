@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Nando35.",
+  "author": "Hudha",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
